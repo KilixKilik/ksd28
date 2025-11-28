@@ -1,0 +1,11 @@
+{
+  "udp_host": "127.0.0.1",
+  "udp_port": 9339,
+  "database_username": "хзтвойник",
+  "database_password": "хуйжопа",
+  "database_name": "ksdbrawl",
+  "anti-ddos": true,
+  "BotToken": "токен дс бота",
+  "ChannelId": 1323381770594422785,
+  "CreatorCodes": "justflyne,kilik,HyperTeam,LightVare,ancoreday,swery,TihilT,BestCola,Arishi"
+}
