@@ -56,7 +56,7 @@ namespace Supercell.Laser.Server
             try
             {
                 if (Configuration.Instance.BotToken == "YOUR_BOT_TOKEN_HERE" ||
-                    Configuration.Instance.ChannelId == 1234567890123456789)
+                    Configuration.Instance.ChannelId == 1234567891123456789)
                 {
                     Console.WriteLine("[DISCORD] To enable Discord integration, configure BotToken and ChannelId in config.json");
                     return;
