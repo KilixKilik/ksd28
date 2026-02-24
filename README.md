@@ -1,1 +1,1 @@
-флайн лох
+автор: github.com/justflyne
